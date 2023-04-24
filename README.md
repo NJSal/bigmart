@@ -1,2 +1,2 @@
 # Big Mart
- Predicting Price of Items at Supermarkets
+ Predicting Ouetet Sales of food items sold in stores
